@@ -1,4 +1,4 @@
-## Hi there 👋 ![](https://visitorbadge.io)
+## Hi there 👋 ![](https://visitorbadge.io/api/visitors?id=cross988)
 
 <!--
 **cross988/cross988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
